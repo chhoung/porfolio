@@ -2,15 +2,13 @@
 date: '3'
 title: 'CostMe Beauty'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://apps.apple.com/sr/app/costmebeauty/id1575844896'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - RxSwift
+  - Firebase
+  - UIKit
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+An ecomerce app that focus on online costmetic products.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+This is my first project when I first started as iOS Developer. With beautiful design and custom UI, I had a chance to learn a lot in term of implementing features and created custom views.

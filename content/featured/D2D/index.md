@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'D2D One'
+#cover: './demo.png'
+external: 'https://apps.apple.com/kh/app/d2d-one/id1575850241'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - RxSwift
+  - Firebase
+  - UIKit
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An app for booking express delivery, household service along with shopping online. Select pickup drop off location from map and add information about each delivery. Can book multiple delivery at once with ease.
