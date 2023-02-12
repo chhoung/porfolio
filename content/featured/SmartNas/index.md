@@ -1,11 +1,11 @@
 ---
-date: '1'
+date: '2'
 title: 'SmartNas'
-#cover: './halcyon.png'
+cover: './smartnas.png'
 external: 'https://www.smart.com.kh/get-smart/smartnas/'
 tech:
   - Xcode
   - UIKit
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A self care app for Smart users. With a new look, it provides fresh feel and fun features ready for you to explore! The app, a one-stop solution for all your Smart needs, has been redesigned to make everything simple and easy.

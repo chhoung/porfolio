@@ -1,7 +1,7 @@
 ---
-date: '3'
-title: 'CostMe Beauty'
-cover: './course-card.png'
+date: '4'
+title: 'Costmebeauty'
+cover: './costme.png'
 external: 'https://apps.apple.com/sr/app/costmebeauty/id1575844896'
 tech:
   - RxSwift

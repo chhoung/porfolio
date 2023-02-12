@@ -78,7 +78,7 @@ const Hero = () => {
       href="https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054"
       target="_blank"
       rel="noreferrer">
-      Check out latest app!
+      Check out my latest project!
     </a>
   );
 

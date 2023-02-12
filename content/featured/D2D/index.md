@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '3'
 title: 'D2D One'
-#cover: './demo.png'
+cover: './d2done.png'
 external: 'https://apps.apple.com/kh/app/d2d-one/id1575850241'
 tech:
   - RxSwift
