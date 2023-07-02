@@ -2,7 +2,7 @@
 date: '1'
 title: 'AEON MALL PLUS'
 cover: './aeonmallplus.jpeg'
-external: 'https://www.smart.com.kh/get-smart/smartnas/'
+external: 'https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054'
 tech:
   - Xcode
   - UIKit

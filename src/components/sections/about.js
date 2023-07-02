@@ -140,8 +140,8 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">NSSF</a>,{' '}
-              <a href="https://starry.com/">Coolbeans Digital</a>,{' '}. My
+              <a href="https://www.nssf.gov.kh/language/en/">NSSF</a>,{' '}
+              <a href="https://coolbeans.digital/">Coolbeans Digital</a>{' '}. My
               main focus these days is building iOS applications with beautiful designs <a href="https://coolbeans.digital">Coolbeans Studio</a> for a variety of
               clients.
             </p>

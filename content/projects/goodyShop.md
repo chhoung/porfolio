@@ -2,7 +2,7 @@
 date: '2022-05-27'
 title: 'GOODY SHOP'
 github: ''
-external: 'https://apps.apple.com/us/app/goody-shop/id1617240445'
+external: 'https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054'
 tech:
   - Swift
   - RxSwift
