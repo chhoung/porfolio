@@ -125,8 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Swift', 'Flutter', 'RxSwift', 'UIKit', 'SwiftUI'];
-
+  const skills = ['Swift', 'RxSwift', 'UIKit', 'SwiftUI', 'Flutter'];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>

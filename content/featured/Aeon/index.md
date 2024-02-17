@@ -4,7 +4,7 @@ title: 'AEON MALL PLUS'
 cover: './aeonmallplus.jpeg'
 external: 'https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054'
 tech:
-  - Xcode
+  
   - UIKit
   - SwiftUI
 ---
