@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building iOS app and sometimes cross-platform apps using flutter. Currently, I am pursuing my master and a freelance iOS Developer.
+        I’m a software engineer specializing in building iOS app and sometimes cross-platform apps using flutter. Currently, I am pursuing my master and do freelancing.
       </p>
     </>
   );
