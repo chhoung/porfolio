@@ -1,19 +1,19 @@
 module.exports = {
-  email: 'phengchhorng@gmail.com',
+  email: '',
 
   socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/chhoung',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/spacejumper11',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/kimchhorng-pheng-600592174',
-    },
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/chhoung',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/spacejumper11',
+    // },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/kimchhorng-pheng-600592174',
+    // },
   ],
 
   navLinks: [
