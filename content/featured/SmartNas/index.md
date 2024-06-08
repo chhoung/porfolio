@@ -2,7 +2,7 @@
 date: '3'
 title: 'SmartNas'
 cover: './smartnas.png'
-external: 'https://www.smart.com.kh/get-smart/smartnas/'
+external: 'https://www.smart.com.kh/smartnas/'
 tech:
   - UIKit
   - Moya
