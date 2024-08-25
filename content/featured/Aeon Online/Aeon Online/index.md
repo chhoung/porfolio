@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'AEON Online'
 cover: './aeononline.png'
 external: 'https://apps.apple.com/tt/app/aeon-online/id1481779784'

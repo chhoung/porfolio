@@ -1,5 +1,5 @@
 ---
-date: '0'
+date: '1'
 title: 'Legend'
 cover: './legend.png'
 external: 'https://apps.apple.com/us/app/legend-cinema/id1494420578'

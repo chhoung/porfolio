@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Costmebeauty'
 cover: './costme.png'
 external: 'https://apps.apple.com/sr/app/costmebeauty/id1575844896'

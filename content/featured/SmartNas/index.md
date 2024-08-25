@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'SmartNas'
 cover: './smartnas.png'
 external: 'https://www.smart.com.kh/smartnas/'
