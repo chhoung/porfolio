@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'AEON MALL PLUS'
 cover: './aeonmallplus.jpeg'
 external: 'https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054'
