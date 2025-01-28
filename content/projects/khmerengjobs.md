@@ -6,8 +6,6 @@ external: 'https://apps.apple.com/kh/app/khmer-engineering-job/id1575669379'
 tech:
   - Swift
   - Firebase
-  - RxSwift
-  - Files
 showInProjects: true
 ---
 

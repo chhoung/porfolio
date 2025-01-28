@@ -4,7 +4,6 @@ title: 'D2D One'
 cover: './d2done.png'
 external: 'https://apps.apple.com/kh/app/d2d-one/id1575850241'
 tech:
-  - RxSwift
   - Firebase
   - UIKit
 ---

@@ -4,7 +4,6 @@ title: 'Costmebeauty'
 cover: './images/costme.png'
 external: 'https://apps.apple.com/sr/app/costmebeauty/id1575844896'
 tech:
-  - RxSwift
   - Firebase
   - UIKit
 company: 'Coolbeans Studio'

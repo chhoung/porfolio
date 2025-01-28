@@ -5,7 +5,6 @@ github: ''
 external: 'https://apps.apple.com/kh/app/aeon-mall-plus/id6444750054'
 tech:
   - Swift
-  - RxSwift
   - GoogleMap
 company: ''
 showInProjects: true

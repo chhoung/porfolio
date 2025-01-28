@@ -5,10 +5,8 @@ github: ''
 external: 'https://apps.apple.com/us/app/d2d-driver/id1576291726'
 tech:
   - Swift
-  - RxSwift
   - GoogleMap
-  - iOS LocationManager
-  - WebSocket
+  
 company: 'Coolbeans Studio'
 showInProjects: true
 ---

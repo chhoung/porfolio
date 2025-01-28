@@ -5,7 +5,6 @@ github: ''
 external: 'https://apps.apple.com/kh/app/foodbuzz/id1550267267'
 tech:
   - Swift
-  - RxSwift
 company: 'Coolbeans Studio'
 showInProjects: true
 ---
