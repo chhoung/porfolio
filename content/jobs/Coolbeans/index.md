@@ -2,7 +2,7 @@
 date: '2020-01-04'
 title: 'iOS Developer'
 company: 'Coolbeans Digital'
-location: 'Bkk, Phnom Penh'
+location: 'Phnom Penh'
 range: 'Jan 2020 - Dec 2023'
 url: 'https://www.coolbeans.digital/'
 ---
