@@ -59,12 +59,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Kimchhorng Pheng.</h2>;
+  const two = <h2 className="big-heading">Chhorng</h2>;
   const three = <h3 className="big-heading">I make iOS apps.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building iOS app and sometimes cross-platform apps using flutter. Currently, I am pursuing my master and do freelancing.
+        I’m a software engineer specializing in building iOS app and sometimes cross-platform apps using flutter. Currently, I am working as a iOS Developer at a tech company in Sydney.
       </p>
     </>
   );

@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Kimchhorng Pheng',
+    title: 'Kimchhorng',
     description:
-      'Kimchhorng Pheng is a software engineer who specializes in building mobile apps',
+      'Kimchhorng is a software engineer who specializes in building mobile apps',
     siteUrl: 'https://kimchhorngpheng.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'KimchhorngPheng',
-        short_name: 'KimchhorngPheng',
+        name: 'Kimchhorng',
+        short_name: 'Kimchhorng',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
